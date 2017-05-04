@@ -1,0 +1,24 @@
+{
+  "name": "onion",
+  "version": "1.0.0",
+  "description": "onion express",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "author": "Gonza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalo-massa/curso-nodejs-clase3-onion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gonzalo-massa/curso-nodejs-clase3-onion/issues"
+  },
+  "homepage": "https://github.com/gonzalo-massa/curso-nodejs-clase3-onion#readme"
+}
