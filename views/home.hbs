@@ -1,0 +1,14 @@
+<table>
+  <tr>
+    <th>Name</th>
+    <th>DNI</th>
+    <th>Age</th>
+  </tr>
+  {{#each users}}
+  <tr>
+    <td>{{this.name}}</td>
+    <td>{{this.dni}}</td>
+    <td>{{this.age}}</td>
+  </tr>
+  {{/each}}
+</table>
